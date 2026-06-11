@@ -1,6 +1,6 @@
 # Aleksei Zasulskii
 
-Founding engineer at [Alien](https://alien.org), building decentralized identity.
-These days I think mostly about AI, DeFi, and launching things.
+Software engineer who loves building products from scratch — from idea to launch.
+Mostly into AI, DeFi, and blockchain infrastructure.
 
-[Telegram](https://t.me/GinsengAlex) · [X](https://x.com/Zasulskii_) · [LinkedIn](https://www.linkedin.com/in/aleksei-zasulskii) · [sampekmoy@gmail.com](mailto:sampekmoy@gmail.com)
+[Website](https://zasulskii.com) · [Telegram](https://t.me/GinsengAlex) · [X](https://x.com/Zasulskii_) · [LinkedIn](https://www.linkedin.com/in/aleksei-zasulskii) · [sampekmoy@gmail.com](mailto:sampekmoy@gmail.com)
